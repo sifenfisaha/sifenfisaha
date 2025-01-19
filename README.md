@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sifen Fisaha!
 
 🎓 **Civil and Architectural Engineering Student** at Adama Science and Technology University  
-💻 **Full-Stack Web Developer** | Self-Taught Coder  
+💻 **Aspiring Full-Stack Web Developer** | Self-Taught Coder  
 🎨 Passionate about **coding, drawing, basketball**, and helping others learn programming.  
 
 ---
 
 ## 🔧 Technologies & Tools
 - **Languages:**  
-  ![phyton](https://img.shields.io/badge/-python-00599C?logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
@@ -35,16 +35,9 @@
 
 ---
 
-## ✨ Fun Facts
-- 🏀 I play basketball in my free time!  
-- 🌟 I'm passionate about teaching others and have helped village students master coding.  
-- 🌍 Long-term goal: Help Ethiopia grow in technology while becoming financially free.
-
----
 
 ## 📈 GitHub Stats
 ![Sifen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifenFisaha&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifenFisaha&layout=compact&theme=radical)
 
----
 

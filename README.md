@@ -2,7 +2,6 @@
 
 🎓 **Civil and Architectural Engineering Student** at Adama Science and Technology University  
 💻 **Aspiring Full-Stack Web Developer** | Self-Taught Coder  
-🎨 Passionate about **coding, drawing, basketball**, and helping others learn programming.  
 
 ---
 

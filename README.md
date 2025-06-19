@@ -91,13 +91,3 @@
    
   </tr>
 </table>
-
-## Current overview:
-
-### 🥅 Goals of 2025 - Full stack developer
-
-### 🤝 I’m looking - To collaborate on open-source projects
-
-### 🧣 I’m currently - Learning Next.js
-
-### 💤 Fun fact - I love to play Basket ball
